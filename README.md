@@ -4,7 +4,7 @@
 <h4>University</h4>
 <ul>
   <li>
-    <b>Programming languages:</b> 
+    <b>Programming Languages:</b> 
     <img src="https://img.shields.io/badge/-C-00599C?style=flat-square&logo=c&logoColor=white" alt="C">
     <img src="https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" alt="C++">
     <img src="https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white" alt="Java">
@@ -16,7 +16,7 @@
     <img src="https://img.shields.io/badge/-Arduino-00979D?style=flat-square&logo=arduino&logoColor=white" alt="Arduino">
   </li>
   <li>
-    <b>Other tools:</b>
+    <b>Other Tools:</b>
     <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5">
     <img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3">
     <img src="https://img.shields.io/badge/-OracleSQL-F80000?style=flat-square&logo=oracle&logoColor=white" alt="OracleSQL">
