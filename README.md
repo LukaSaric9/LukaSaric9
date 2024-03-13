@@ -3,7 +3,7 @@ Hi, I'm Luka. I'm a third-year student of Applied Software engineering at Facult
 <h4>University</h4>
 <ul>
   <li>
-    <b>Programing languages:</b> 
+    <b>Programming languages:</b> 
      <img src="https://img.shields.io/badge/-C-00599C?style=flat-square&logo=c&logoColor=white" alt="C">
      <img src="https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" alt="C++">
      <img src="https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white" alt="Java">
