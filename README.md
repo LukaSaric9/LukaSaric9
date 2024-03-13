@@ -31,7 +31,10 @@ Hi, I'm Luka. I'm a third-year student of Applied Software engineering at Facult
 <ul>
   <li>Programming languages and data structures</li>
   <li>Basics of Electrical Engineering and Basics of Electrical Power Engineering</li>
-  <li>Mathematics: algebra,analysis,discrete,optimization methods,etc</li>
+  <li>Mathematics: algebra,analysis,discrete,optimization methods,etc...</li>
+  <li>Applied algorithms : sorts,searches,etc...</li>
+  <li>Object-Oriented Programming</li>
+  <li></li>
 </ul>
 
 
