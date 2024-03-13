@@ -39,6 +39,8 @@
 <h4>Contact</h4>
 <ul>
   <li><b>Email:</b> <a href="mailto:lukisaric@gmail.com">lukisaric@gmail.com</a>
-
+  </li>
+  <li>
+    <b>LinkedIn:</b>
   </li>
 </ul>
