@@ -27,6 +27,12 @@ Hi, I'm Luka. I'm a third-year student of Applied Software engineering at Facult
     <img src="https://img.shields.io/badge/-Mathematical_Analysis-980905?style=flat-square" alt="Mathematical Analysis">
   </li>
 </ul>
+<h4>Notable Courses</h4>
+<ul>
+  <li>Programming languages and data structures</li>
+  <li>Basics of Electrical Engineering and Basics of Electrical Power Engineering</li>
+  <li>Mathematics: algebra,analysis,discrete,optimization methods,etc</li>
+</ul>
 
 
 
