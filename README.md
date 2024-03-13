@@ -20,21 +20,18 @@ Hi, I'm Luka. I'm a third-year student of Applied Software engineering at Facult
     <img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3">
     <img src="https://img.shields.io/badge/-OracleSQL-F80000?style=flat-square&logo=oracle&logoColor=white" alt="OracleSQL">
   </li>
-  <li>
-    <b> Mathematics:</b>
-    <img src="https://img.shields.io/badge/-Linear_Algebra-47A248?style=flat-square" alt="Linear Algebra">
-    <img src="https://img.shields.io/badge/-Discrete_Math-0C343D?style=flat-square" alt="Discrete Math">
-    <img src="https://img.shields.io/badge/-Mathematical_Analysis-980905?style=flat-square" alt="Mathematical Analysis">
-  </li>
 </ul>
 <h4>Notable Courses</h4>
 <ul>
   <li>Programming languages and data structures</li>
-  <li>Basics of Electrical Engineering and Basics of Electrical Power Engineering</li>
+  <li>Electrical Engineering, Electric Power Engineering</li>
   <li>Mathematics: algebra,analysis,discrete,optimization methods,etc...</li>
   <li>Applied algorithms : sorts,searches,etc...</li>
   <li>Object-Oriented Programming</li>
-  <li></li>
+  <li>Modeling and Simulation</li>
+  <li>Concurrent Programming</li>
+  <li>Computer Networks</li>
+  <li>Databases (SQL,ER model,Relational model)</li>
 </ul>
 
 
