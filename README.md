@@ -1,5 +1,5 @@
 <h4>About Me</h4>
-<p>Hi, I'm Luka. I'm a fourth-year student of Applied Software Engineering at the Faculty of Technical Sciences in Novi Sad. I like to keep up with the latest technologies and learn new things.</p>
+<p>Hi, I'm Luka. I'm a M.Sc. student of Computer Science at the Faculty of Technical Sciences in Novi Sad. I like to keep up with the latest technologies and learn new things.</p>
 
 <h4>University</h4>
 <ul>
